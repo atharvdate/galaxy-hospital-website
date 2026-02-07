@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://galaxyhospitals.com/sitemap.xml
+
+# Disallow certain file types
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /images/
+
+# Allow important pages
+Allow: /index.html
+Allow: /about.html
+Allow: /services.html
+Allow: /doctors.html
+Allow: /testimonials.html
+Allow: /contact.html
+
+# Crawl-delay
+Crawl-delay: 1
