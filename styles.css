@@ -2235,7 +2235,7 @@ section p {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: var(--space-5);
-    max-width: 1000px;
+    max-width: 500px;
     margin: 0 auto;
 }
 
