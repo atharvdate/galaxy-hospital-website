@@ -1,0 +1,7 @@
+models:
+  - id: ollama-codellama
+    name: CodeLlama (Local)
+    model: codellama:13b
+    provider: ollama
+
+defaultModel: ollama-codellama
