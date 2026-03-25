@@ -31,7 +31,7 @@ This guide outlines the complete SEO strategy to make Galaxy Hospitals appear as
 ### 1. **Domain & Hosting Setup**
 ```
 PRIORITY: HIGH
-- Purchase domain: galaxyhospitals.com
+- Purchase domain: galaxy-hospitals.com
 - Set up professional web hosting
 - Install SSL certificate (HTTPS)
 - Upload website files to live server
@@ -46,7 +46,7 @@ PRIORITY: CRITICAL
   * Name: Galaxy Hospitals Ltd
   * Address: Nlvruti Colony, Warananagar, Panhala, Maharashtra 416113
   * Phone: +91 94213 17398
-  * Website: https://galaxyhospitals.com
+  * Website: https://galaxy-hospitals.com
   * Category: Hospital/Medical Center
 - Upload high-quality photos
 - Add business hours
@@ -160,7 +160,7 @@ PRIORITY: MEDIUM
 ## 🚨 Critical Action Items
 
 ### Immediate (This Week):
-1. **Purchase domain: galaxyhospitals.com**
+1. **Purchase domain: galaxy-hospitals.com**
 2. **Set up web hosting with SSL**
 3. **Create Google Business Profile**
 4. **Upload website to live server**

@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://galaxyhospitals.com/sitemap.xml
+Sitemap: https://galaxy-hospitals.com/sitemap.xml
 
 # Disallow certain file types
 Disallow: /*.css$
